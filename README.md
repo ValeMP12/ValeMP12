@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">Hola, soy  <a href="https://github.com/ValeMP12">Valeria Preciado</a>👋</h1>
+  <h1 align="center">Hello, I'm  <a href="https://github.com/ValeMP12">Valeria Preciado</a>👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans:bold&color=007BFF&size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans:bold&color=007BFF&size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FrontEnd+developer;I'm+a+competitive+programmer;" />
   </a>
 </p>
 
