@@ -11,6 +11,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/ValeMP12?style=social) 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ValeMP12.ValeMP12) 
 <img src="https://komarev.com/ghpvc/?username=ValeMP12" alt="ValeMP12" />
+<a href="https://www.linkedin.com/in/valeria-preciado/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+</a>
 
 
 ## About Me 🌟  
