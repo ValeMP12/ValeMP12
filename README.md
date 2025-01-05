@@ -12,8 +12,6 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ValeMP12.repoName) 
 <img src="https://komarev.com/ghpvc/?username=ValeMP12" alt="ValeMP12" />
 
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-f4d03f?style=plastic">
-
 ## About Me 🌟  
 
 Hi there! 👋 My name is Valeria, I’m 21 years old, and I’m currently pursuing a degree in Computer Systems Engineering. Ever since I discovered programming, I’ve been passionate about turning ideas into functional and visually appealing solutions.  
@@ -25,7 +23,32 @@ I specialize as a Front-End Developer, where I design and build interfaces that 
 Throughout my journey, I’ve worked with a variety of technologies, tools, and frameworks that enhance my abilities as a Front-End Developer:  
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript.  
 - **Frameworks and Libraries:** React, Next.js, Tailwind CSS, Bootstrap.  
-- **Version Control:** Git and GitHub for efficient collaboration on projects.  
+- **Version Control:** Git and GitHub for efficient collaboration on projects.
+
+<div>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript" style="margin: 0 30px;"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3"  style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" alt="React" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery" alt="JQuery" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js" alt="Nodejs" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker" alt="Docker" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress" alt="WordPress" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-json-02569B?style=flat&logo=json" alt="JSON" style="margin: 0 10px;" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript" alt="TypeScript" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" alt="MySQL" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss" alt="Tailwind CSS" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" alt="Postgres" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular" alt="Angular" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs" alt="NextJS" style="margin: 0 10px;" />
+</div>
+
+
 
 ## More About Me 🌱  
 I’m a curious individual with a constant thirst for learning. I enjoy staying updated with the latest tech trends and continuously improving my skills. I also love working in teams, sharing knowledge, and solving challenges that push my logic and creativity.  
