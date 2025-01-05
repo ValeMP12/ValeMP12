@@ -9,8 +9,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ValeMP12?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/ValeMP12?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ValeMP12.repoName) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ValeMP12.ValeMP12) 
 <img src="https://komarev.com/ghpvc/?username=ValeMP12" alt="ValeMP12" />
+
 
 ## About Me 🌟  
 
