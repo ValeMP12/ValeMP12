@@ -32,6 +32,7 @@ Throughout my journey, I’ve worked with a variety of technologies, tools, and 
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3"  style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" alt="React" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-NPM-black?style=flat&logo=npm" alt="NPM" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery" alt="JQuery" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js" alt="Nodejs" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker" alt="Docker" style="margin: 0 10px;" />
@@ -45,14 +46,31 @@ Throughout my journey, I’ve worked with a variety of technologies, tools, and 
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql" alt="Postgres" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular" alt="Angular" style="margin: 0 10px;" />
     <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs" alt="NextJS" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" style="margin: 0 10px;" />
 </div>
-
 
 
 ## More About Me 🌱  
 I’m a curious individual with a constant thirst for learning. I enjoy staying updated with the latest tech trends and continuously improving my skills. I also love working in teams, sharing knowledge, and solving challenges that push my logic and creativity.  
+
+<h2>👀 My github Stats</h2>
+
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValeMP12" alt="GitHub Stats" /> <br/><br/>
+</div>
+
+
 
 
 #### I'm an Early 🐤
