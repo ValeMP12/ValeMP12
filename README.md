@@ -7,13 +7,15 @@
   </a>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/ValeMP12?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/ValeMP12?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ValeMP12.ValeMP12) 
-<img src="https://komarev.com/ghpvc/?username=ValeMP12" alt="ValeMP12" />
-<a href="https://www.linkedin.com/in/valeria-preciado/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-</a>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ValeMP12?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ValeMP12?style=social" alt="GitHub stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ValeMP12.ValeMP12" alt="Visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=ValeMP12" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/valeria-preciado/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
 
 
 ## About Me 🌟  
